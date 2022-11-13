@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Captura - copia.JPG</filename>
+	<path>C:\Users\15cd005la\Desktop\proyecto\detec\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Captura - copia.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>199</width>
+		<height>209</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>48</ymin>
+			<xmax>180</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

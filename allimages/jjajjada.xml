@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagenes de aluminio</folder>
+	<filename>jjajjada.JPG</filename>
+	<path>C:\Users\15cd005la\Downloads\imagenes de aluminio\jjajjada.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>607</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>2</ymin>
+			<xmax>269</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Alive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>30</ymin>
+			<xmax>537</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
